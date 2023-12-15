@@ -1,5 +1,5 @@
 # UAFX_LION'68
-①'68 Plexi Super Bass 100W with 117V  
+①'69 Plexi Super Bass 100W with 117V  
 ②'68 Plexi Super Lead 100W with 110V  
 ③'68 Plexi Super Lead 100W with 90V  
 をモデリング。
@@ -108,23 +108,12 @@ Lion のノイズ・ゲートは、インプットでギター信号を検出し
 |20|True Grit Lead|||Rib 160 マイクと Con 67 マイクを組み合わせた 68 GB25 キャビネット。 Free Kossof時代のトーンにはハムバッカーとの組み合わせが最適です。アンジェラ・ペトリリ製。|
 
 ## 7.設定メモ
-まずは定番の組み合わせにおいて音を作ってみて、そのときのパラメータ値をメモする。  
-それができたら、気に入った組み合わせで音作りし、その設定をメモする。  
-「OUTPUT」「BASE」「TREBLE」は、その場にあわせて調整する。  
-「VOLUME」「BOOST」をどの程度上げるかで、その音色の方向性が決まる。  
+アンプとキャビの、気に入った組み合わせで音作りし、その設定をメモする。  
+「VOLUMEⅠ」「VOLUMEⅡ」「BOOST」「MIDDLE」「PRESENCE」をどの程度上げるかで、その音色の方向性が決まる。  
+「OUTPUT」「BASE」「TREBLE」「ROOM」は、その場にあわせて調整する。  
 | No |項目 | 選択肢 | 定番１ | 定番２ | 定番３ | 設定１ | 設定２ | 設定３ |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|●|音の傾向|クリーン<br>歪み|歪み|クリーン|歪み||||
-|1|MOD|①LEAD<br>②STOCK<br>③D-TEX|①LEAD|②STOCK|③D-TEX||||
-|2|SPEAKER|①GB25<br>②OXFORD<br>③EV12<br>④D65<br>⑤S-Verb<br>⑥JBF120|①GB25|②OXFORD|③EV12||||
-|3|OUTPUT||||||||
-|4|VOLUME|7～5時|||||||
-|5|BOOST|7～5時|||OFF||||
-|6|BASE||||||||
-|7|TREBLE||||||||
-|8|REVERB|7～5時|||||||
-|9|SPEED|7～5時|||||||
-|10|INTENSITY|7～5時|||||||
+||||||||||
 
 
 ## ●情報源
