@@ -1,6 +1,9 @@
 # UAFX_LION'68
+'68 Plexi Super Bass 100W with 117V
+'68 Plexi Super Lead 100W with 110V
+'68 Plexi Super Lead 100W with 90V
+をモデリング。
 
-1965年製デラックス・リヴァーブをモデリング。
 ## 1.設定のしかた
 1. 「ALT/AMP/STORE」トグルスイッチはAMPに、ノブはすべて12時にしておく。
 2. 「MODEL」トグルスイッチで、アンプを３つのなかから選ぶ。
